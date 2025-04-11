@@ -1,15 +1,63 @@
 {
   "cities": [
     {
-      "id": "d789",
-      "cityName": "Pune",
+      "id": "ebcc",
+      "cityName": "Al Jawf",
+      "country": "Libya",
+      "emoji": "🇱🇾",
+      "date": "2025-04-10T12:09:19.699Z",
+      "notes": "",
+      "position": {
+        "lat": "25.269144966791355",
+        "lng": "21.4453125"
+      }
+    },
+    {
+      "id": "ce9a",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-10T12:11:15.278Z",
+      "notes": "",
+      "position": {
+        "lat": "40.002475716777454",
+        "lng": "0.000171661376953125"
+      }
+    },
+    {
+      "id": "c6dd",
+      "cityName": "Vasai",
       "country": "India",
       "emoji": "🇮🇳",
-      "date": "2025-04-08T02:40:01.330Z",
-      "notes": "Fav!",
+      "date": "2025-04-10T12:14:17.506Z",
+      "notes": "",
       "position": {
-        "lat": "18.490028573953296",
-        "lng": "73.85559082031251"
+        "lat": "19.451247971816745",
+        "lng": "72.80416488647462"
+      }
+    },
+    {
+      "id": "0d66",
+      "cityName": "Bhiwandi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-04-10T12:22:50.617Z",
+      "notes": "",
+      "position": {
+        "lat": "19.29694712891116",
+        "lng": "73.06743986815232"
+      }
+    },
+    {
+      "id": "90be",
+      "cityName": "Mumbai",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-04-10T12:45:42.288Z",
+      "notes": "",
+      "position": {
+        "lat": "18.956432556450526",
+        "lng": "72.8276824951172"
       }
     }
   ]

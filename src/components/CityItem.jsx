@@ -20,12 +20,11 @@ export default function CityItem({ city, selectedCity }) {
     e.preventDefault();
     deleteCity(id);
   }
-
   return (
     <li>
       <Link
         className={`${styles.cityItem} ${
-          id == selectedCity ? styles["cityItem--active"] : ""
+          id == selectedCity?.id ? styles["cityItem--active"] : ""
         }`}
         to={`${id}?lat=${position.lat}&lng=${position.lng}`}
       >

@@ -7,7 +7,6 @@ import { useNavigate, useSearchParams } from "react-router-dom";
 import Spinner from "./Spinner";
 import Message from "./Message";
 import { useCities } from "../contexts/CitiesContext";
-import Calendar from "react-calendar";
 import DatePicker from "react-datepicker";
 import "react-datepicker/dist/react-datepicker.css";
 
